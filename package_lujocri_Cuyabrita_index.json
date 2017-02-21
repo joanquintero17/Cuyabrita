@@ -1,5 +1,5 @@
 {
-  "packages": [
+  "packages":[
     {
   "name":"cuyabrita",
   "maintainer":"lujocri",
@@ -9,7 +9,7 @@
   "platforms":[
     {
       "name":"cuyabrita",
-      "arquitecture":"avr",
+      "architecture":"avr",
       "version":"0.1.0",
       "category":"contributed",
       "boards":[
