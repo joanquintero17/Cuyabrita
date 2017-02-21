@@ -11,7 +11,10 @@
       "name":"cuyabrita",
       "arquitecture":"avr",
       "version":"0.1.0",
-      "category":"contributed"
+      "category":"contributed",
+      "boards":[
+        {"name":"cuyabrita"}
+      ]
     }
   ],
   "tools":[]
