@@ -1,12 +1,19 @@
 {
   "packages": [
     {
-  "name":"cuyabrito",
+  "name":"cuyabrita",
   "maintainer":"lujocri",
   "websiteURL":"",
   "email":"joan_halo@hotmail.com",
 
-  "platforms":[],
+  "platforms":[
+    {
+      "name":"cuyabrita",
+      "arquitecture":"avr",
+      "version":"0.1.0",
+      "category":"contributed"
+    }
+  ],
   "tools":[]
   }
   ]
