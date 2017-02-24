@@ -12,6 +12,9 @@
       "architecture":"avr",
       "version":"0.1.0",
       "category":"contributed",
+      "url":"
+      "checksum":"SHA-256:
+      "size": "
       "boards":[
         {"name":"cuyabrita"}
       ]
