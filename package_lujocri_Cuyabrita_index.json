@@ -13,9 +13,9 @@
       "version":"0.1.0",
       "category":"contributed",
       "archiveFileName":"Cuyabrita-0.1.0.zip",
-      "url":"https://github.com/joanquintero17/Cuyabrita.git"
-      "checksum":"SHA-256:
-      "size": "
+      "url":"https://github.com/joanquintero17/Cuyabrita.git",
+      "checksum":"SHA-256:2e98c26d05cd4b2e2e4349669bb21ff1e76a58d2841d676460de5bcc7cc348e2",
+      "size": "188kb",
       "boards":[
         {"name":"cuyabrita"}
       ]
