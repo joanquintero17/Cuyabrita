@@ -25,10 +25,10 @@
     {
       "name":"cuyabrita",
       "architecture":"avr",
-      "version":"0.2.0",
+      "version":"0.3.0",
       "category":"contributed",
-      "archiveFileName":"Cuyabrita-v0.2.0.zip",
-      "url":"https://github.com/joanquintero17/Cuyabrita/archive/v0.2.0.zip",
+      "archiveFileName":"Cuyabrita-v0.3.0.zip",
+      "url":"https://github.com/joanquintero17/Cuyabrita/archive/v0.3.0.zip",
       "checksum":"156f2a709ced8b038962003c41d758467ef7fad2d013194499ba77a21770875c",
       "size": "",
       "boards":[
