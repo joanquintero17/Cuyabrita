@@ -26,9 +26,9 @@
       "version":"0.3.0",
       "category":"contributed",
       "archiveFileName":"Cuyabrita-0.3.0.zip",
-      "url":"https://github.com/joanquintero17/Cuyabrita/archive/0.3.0.zip",
+      "url":"https://github.com/joanquintero17/Cuyabrita/archive/v0.3.0.zip",
       "checksum":"dc64f156e57baca996069efca8d759eff1d3eb778192820e55d102ad5a3e1b74",
-      "size": "",
+      "size": "196608",
       "boards":[
         {"name":"cuyabrita"}
       ]
