@@ -19,9 +19,7 @@
       "boards":[
         {"name":"cuyabrita"}
       ]
-    }
-    ],
-      "platforms":[
+    },
     {
       "name":"cuyabrita",
       "architecture":"avr",
